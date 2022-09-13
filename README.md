@@ -9,7 +9,7 @@ git clone https://github.com/aura-bss/sdkrun.git
 ```
 cd sdkrun
 ```
-2. Открыть [руководство пользователя](https://github.com/aura-bss/sdkrun)
+3. Открыть [руководство пользователя](https://github.com/aura-bss/sdkrun)
 - Настроить рабочее место
 - Следовать инструкциям по сбору данных
 ---
