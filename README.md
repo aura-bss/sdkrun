@@ -15,14 +15,14 @@ cd sdkrun
 
 2. Запуск коллектора (сборщик и анализатор данных) под Linux / Mac:
 ```
-./collect <token> <repositiory url
+./collect <token> <repositiory url>
 ```
 Например:
 ```
 ./collect b_9FM2xTM5AE8Yz-6eYG https://github.com/kubernetes/kubernetes
 ```
 
-3. Запуск коллектора (сборщик и анализатор данных) под Windows:
+3. Или запуск коллектора под Windows:
 ```
 ./collect.bat <token> <repositiory url>
 ```
