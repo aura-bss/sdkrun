@@ -13,17 +13,15 @@
 
 2. Запуск колектора
 
-- Запуск колектора под Под Linux / Mac:
+2.1. Запуск колектора под Под Linux / Mac:
 
- 1. ./collect <token> <repositiory url>
+ - ./collect <token> <repositiory url>
 
- 2. Например:
+ - Например: ./collect b_9FM2xTM5AE8Yz-6eYG https://github.com/kubernetes/kubernetes
 
- - ./collect b_9FM2xTM5AE8Yz-6eYG https://github.com/kubernetes/kubernetes
+2.2. Под Windows:
 
-- Под Windows:
-
- 1. ./collect.bat <token> <repositiory url>
+- ./collect.bat <token> <repositiory url>
 
 3. Загрузить в телеграм бота полученные в рабочей директории файлы:
 - *.commit.csv
