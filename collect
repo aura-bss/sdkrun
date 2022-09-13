@@ -1,3 +1,4 @@
 #!/bin/sh
 
+docker pull aurabss/aurasdk
 docker run -it --rm --env AURA_GIT_TOKEN=$1  --env AURA_GIT_URL=$2  --name aurasdk -v "$PWD":/out -v "$PWD":/cache  aurabss/aurasdk
